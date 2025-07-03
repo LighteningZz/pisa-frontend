@@ -63,7 +63,7 @@ const translations = {
     addUser: "เพิ่มผู้ใช้ใหม่",
     searchUsers: "ค้นหาผู้ใช้...",
     filterByRole: "กรองตามบทบาท",
-    allRoles: "ทุกบทบาท",
+    allRoles: "��ุกบทบาท",
     administrator: "ผู้ดูแลระบบ",
     teacher: "ครู",
     student: "นักเรียน",
